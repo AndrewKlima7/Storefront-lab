@@ -7,9 +7,9 @@
                   <div style="border: 1px solid black">
                       <p>Id: @p.Id</p>
                       <p>Name: @p.Name</p>
-                      <p>Price: @m.Price</p>
-                      <p>Quantity: @m.Quantity</p>
-                      <p>Description: @m.Description</p>
+                      <p>Price: @p.Price</p>
+                      <p>Quantity: @p.Quantity</p>
+                      <p>Description: @p.Description</p>
 
                       <a asp-action="Details" asp-controller="Product" asp-route-Id="@p.Id">Details for @p.Name</a>
                       <br />
