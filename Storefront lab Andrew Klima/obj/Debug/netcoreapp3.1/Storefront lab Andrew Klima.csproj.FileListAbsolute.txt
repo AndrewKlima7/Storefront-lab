@@ -1,0 +1,86 @@
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.exe
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.deps.json
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.runtimeconfig.json
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.Views.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Storefront lab Andrew Klima.Views.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.RazorAssemblyInfo.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.RazorAssemblyInfo.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\staticwebassets\Storefront lab Andrew Klima.StaticWebAssets.Manifest.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\staticwebassets\Storefront lab Andrew Klima.StaticWebAssets.xml
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\scopedcss\bundle\Storefront lab Andrew Klima.styles.css
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.TagHelpers.input.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.TagHelpers.output.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.RazorCoreGenerate.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.RazorTargetAssemblyInfo.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.RazorTargetAssemblyInfo.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.Views.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.csproj.CopyComplete
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.dll
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.pdb
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Storefront lab Andrew Klima.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Product\AddProduct.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Storefront\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\Storefront lab Andrew Klima\Storefront lab Andrew Klima\obj\Debug\netcoreapp3.1\Razor\Views\Storefront\Privacy.cshtml.g.cs
